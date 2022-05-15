@@ -43,8 +43,6 @@ He keeps sharing his learning via blog writing, Twitter threads, and LinkedIn po
 
 ## 🌍 Find Around The Web
 
-[portfolio](https://puneetpatel.netlify.app/)  |  [twitter](https://twitter.com/Puneet16_)  |  [instagram](https://www.instagram.com/puneetpatel_16/)  |  [linkedin](https://www.linkedin.com/in/puneet16/)
-
 <a href="https://twitter.com/Puneet16_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/puneetp16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/puneet16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
