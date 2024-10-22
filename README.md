@@ -2,7 +2,7 @@
 
 ![coverimage](https://user-images.githubusercontent.com/91944618/168462275-40541212-177a-4822-9249-facf0234fb6a.png)
 
-Puneet Patel is a Front-End Developer and he is also learning full stack development at [neogCamp](https://neog.camp/). He has made many projects to keep building his learning. 
+Puneet Patel is a Fullstack Developer with 2+ years of Experience.
 
 He keeps sharing his learning via blog writing, Twitter threads, and LinkedIn posts. Check his work,
 
